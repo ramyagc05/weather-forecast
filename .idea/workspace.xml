@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05dd92da-5522-44be-86c2-f4ccb0a61884" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UI" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/MicroService/node_modules" />
+    <handled-path value="$PROJECT_DIR$/UI/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/MicroService/node_modules/@google/maps/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/dark-sky-api/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/dark-sky-skeleton/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/fetch-jsonp/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/geo-loc-utils/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/MicroService/package.json" />
+      <path value="$PROJECT_DIR$/UI/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="711" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weather-forecast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather-forecast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weather-forecast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather-forecast" type="462c0819:PsiDirectoryNode" />
+              <item name="MicroService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weather-forecast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weather-forecast" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05dd92da-5522-44be-86c2-f4ccb0a61884" name="Default" comment="" />
+      <created>1527123489537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527123489537</updated>
+      <workItem from="1527123493754" duration="1407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1407000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="711" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5407166" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
