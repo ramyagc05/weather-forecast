@@ -51,6 +51,7 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
+            "host": "35.237.94.36",
             "browserTarget": "Weather-forecast:build"
           },
           "configurations": {

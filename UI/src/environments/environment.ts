@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  requestUrl: 'http://localhost:8000',
+  requestUrl: 'http://35.237.94.36:8000',
   googleApiKey: 'AIzaSyD0q9e8_0w9d7NFzBMAKb3FyBCoqHeeg80' /*your google API Key */
 };
 
