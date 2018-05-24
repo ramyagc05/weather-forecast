@@ -1,0 +1,15 @@
+<ngx-loading [show]="loading" [config]="{ backdropBorderRadius: '14px' }"></ngx-loading>
+<div class="w3layouts_main_grid">
+  <div class="find-location">
+    <input type="text" [(ngModel)]="location" placeholder="Anywhere..." >
+    <button (click)="submit(location);" class="find-button">Find</button>
+  </div>
+  <div class="w3layouts_main_grid_left" *ngIf="locationDetails">
+    <h2>{{locationDetails.city}}, {{locationDetails.region_code}}</h2>
+    <p>{{currentWeather.summary}}</p>
+    <h3>Now</h3>
+    <h4>{{currentWeather.temperature}}<span>°F</span></h4>
+    <img src="/assets/images/{{currentWeather.icon}}.png" id="partly-cloudy-day" width="100" height="100">
+  </div>
+  <div class="clear"> </div>
+</div>

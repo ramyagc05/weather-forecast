@@ -1,0 +1,9 @@
+.scrollAlign {
+  overflow-y: auto;
+  max-height:238px
+}
+
+.scrollAdjust{
+  overflow-y: auto;
+  max-height:282px
+}

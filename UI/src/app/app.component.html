@@ -1,0 +1,16 @@
+<ngx-loading [show]="loading" [config]="{ backdropBorderRadius: '14px' }"></ngx-loading>
+<div class="w3_agile_main_grids">
+  <app-location-search (locationSearch)="updateData()"></app-location-search>
+  <div class="agileits_w3layouts_main_grid">
+    <div class="agile_main_grid_left">
+      <app-forecast-details [dayData]="dayData"></app-forecast-details>
+    </div>
+    <div class="w3_agileits_main_grid_right">
+      <div class="agileinfo_main_grid_right_grid">
+        <app-forecast-data [dailyData]="dailyData" [hourlyData]="hourlyData" (refreshData)="refreshData()"></app-forecast-data>
+      </div>
+    </div>
+    <div class="clear"> </div>
+  </div>
+</div>
+

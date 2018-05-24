@@ -1,0 +1,30 @@
+<div id="parentHorizontalTab">
+  <tabset>
+    <tab heading="Today" id="today" (select)="tabChange('today')">
+      <div class="w3_agileits_tabs scrollAlign">
+        <div class="w3_main_grid_right_grid1" *ngFor="let hour of hourlyData" (click)="selectedData(hour)">
+          <div class="w3_main_grid_right_grid1_left">
+            <p>{{hour.time | dataConverter:'hour'}}</p>
+          </div>
+          <div class="w3_main_grid_right_grid1_right">
+            <p>{{hour.temperature}}<i>°F</i><span>{{hour.summary}}</span></p>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </tab>
+    <tab heading="Week" id="week" (select)="tabChange('week')">
+      <div class="w3_agileits_tabs scrollAdjust">
+        <div class="w3_main_grid_right_grid1" *ngFor="let day of dailyData" (click)="selectedData(day)">
+          <div class="w3_main_grid_right_grid1_left">
+            <p>{{day.time | dataConverter:'day'}}</p>
+          </div>
+          <div class="w3_main_grid_right_grid1_right">
+            <p>{{day.temperatureHigh}}<i>°F</i><span>{{day.summary}}</span></p>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </tab>
+  </tabset>
+</div>
